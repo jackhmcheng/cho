@@ -117,7 +117,7 @@
     <gap:plugin name="cordova-plugin-splashscreen" source="npm" />
 
     <gap:plugin name="com.phonegap.plugins.pushplugin" source="npm" />
-    <gap:plugin name="net.tunts.webintent" source="pgb"/>
+    <gap:plugin name="https://github.com/Tunts/WebIntent" source="git"/>
     <gap:plugin name="cordova-plugin-customurlscheme" source="npm">
         <param name="URL_SCHEME" value="moodlemobile" />
     </gap:plugin>
